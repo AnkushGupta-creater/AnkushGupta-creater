@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnkushGupta-creater
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning python
+- 👀 I’m interested in programing , gamming and hacking specially
+- 🌱 I’m currently learning programing
 - 💞️ I’m looking to collaborate on my projects
 
 
